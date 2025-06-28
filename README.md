@@ -1,25 +1,117 @@
-# 💫 About Me:
-🐱 Mastering cybersecurity like a white-hat ninja.<br>🔐 Leveling up my skills, one security challenge at a time.<br>🚀 Constantly expanding knowledge, growing like a security boss.<br>💻 Mind buzzing with creativity—designing robust defense strategies.<br>⚡ Unleashing a storm of secure solutions, unstoppable.<br>🔒 Creating ethical hacking projects, one line of code at a time.
+
+<h1 align="center">Hi 👋, I'm Yash Patil</h1>
+<h3 align="center">🔐 Building Secure, Automated, and Scalable Systems with Clarity and Precision</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Secure+Infrastructure+through+DevOps+and+Cybersecurity;Always+curious%2C+building+resilient+systems" alt="Typing SVG" />
+</p>
 
 
 
-# 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashpatil118&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashpatil118&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil118&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👤 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashpatil118&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashpatil118&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💻 Intermediate developer into **Cybersecurity**, **DevOps**, and **web tech**.
+- 🔐 I build tools and explore secure coding.
+- ⚙️ I automate systems to make work easier.
+- 🧠 I love ethical hacking and strong system design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashpatil118&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Skills
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+
+### 🖥️ OS, Frameworks & Practices
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+
+### ☁️ Cloud & Databases
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### ⚙️ DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+### 🔒 Cybersecurity & Networking
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite)
+![Nmap](https://img.shields.io/badge/Nmap-5F7E8B?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-3F6791?style=for-the-badge)
+![TheHarvester](https://img.shields.io/badge/TheHarvester-000000?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-6E4C13?style=for-the-badge)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA1E2?style=for-the-badge)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashpatil118&theme=onedark&title=Stars,Commits,Followers,PullRequest,Repositories,Issues" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpatil118&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatil118&theme=radical" alt="Yash's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil118&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 📈 GitHub Timeline & Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpatil118&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+##  📂 Featured Repositories
+
+### 🚧 DevOps Projects
+- [🔗 DevOps Repository](https://github.com/yashpatil118): Infrastructure automation, Docker, Kubernetes, CI/CD pipelines & more.
+
+*(Add more featured repositories here if needed)*
+
+---
+
+## 🌱 Currently Learning
+- Advanced threat detection & vulnerability scanning
+- Cloud-native security practices
+- CI/CD security integration (DevSecOps)
+- Zero Trust and IAM policies in cloud
+
+---
+
+## 💬 Daily Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: [connect](https://www.linkedin.com/in/yash-patil-069820252/)  
+
+---
+
+ > "Security is not a product, it's a process." – Bruce Schneier
+
