@@ -86,9 +86,9 @@
 ##  📂 Featured Repositories
 
 ### 🚧 DevOps Projects
-- [🔗 DevOps Repository](https://github.com/yashpatil118): Infrastructure automation, Docker, Kubernetes, CI/CD pipelines & more.
+- [🔗 DevOps Repository](https://github.com/yashp23dev): Infrastructure automation, Docker, Kubernetes, CI/CD pipelines & more.
 
-*(Add more featured repositories here if needed)*
+
 
 ---
 
