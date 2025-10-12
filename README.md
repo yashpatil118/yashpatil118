@@ -68,10 +68,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashpatil118&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatil118&theme=radical" alt="Yash's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil118&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashpatil118&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashpatil118&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashpatil118&theme=github_dark&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashpatil118&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashpatil118&theme=github_dark)
+  
+</div>
+ <p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yashpatil118&show_icons=true&theme=radical" alt="Yash's GitHub stats" /> -->
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatil118&theme=radical" alt="Yash's GitHub streak" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil118&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
 </p>
 
 ---
