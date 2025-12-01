@@ -120,7 +120,7 @@
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: [connect](https://www.linkedin.com/in/yash-patil-069820252/)
-- 💼 PortFolio: [visit](https://yashpatil118.github.io/portfolio/](https://portfolio-1-1pti.onrender.com/)
+- 💼 PortFolio: [visit](https://portfolio-1-1pti.onrender.com/)
 
 ---
 
